@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ruff_cache/
+.venv/
+.claude/worktrees/
+.claude/settings.local.json
+CLAUDE.local.md

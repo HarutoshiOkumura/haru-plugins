@@ -1,0 +1,17 @@
+{
+  "name": "threads",
+  "version": "0.1.0",
+  "description": "Project memory for multi-month work: thread docs (SPEC, STATUS, LOG), ADRs, and hooks that load the right thread at session start and after compaction.",
+  "author": {
+    "name": "HarutoshiOkumura"
+  },
+  "repository": "https://github.com/HarutoshiOkumura/haru-plugins",
+  "keywords": [
+    "memory",
+    "handoff",
+    "threads",
+    "adr",
+    "workflow"
+  ],
+  "license": "MIT"
+}
